@@ -1,1 +1,0 @@
-export const googleToken = "477276107037-6nvps4ht1setgd3c4o4sao17fau71r17.apps.googleusercontent.com";
